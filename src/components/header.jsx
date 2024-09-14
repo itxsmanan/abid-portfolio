@@ -17,9 +17,7 @@ function header() {
               <div className="header-info-list d-none d-md-inline-block">
                 <ul className="ul-reset">
                   <li>
-                    <a href="mailto:mail@gerolddesign.com">
-                      mail@gerolddesign.com
-                    </a>
+                    <a>Abid Hussain</a>
                   </li>
                 </ul>
               </div>
@@ -80,9 +78,7 @@ function header() {
               <div className="header-info-list d-none d-md-inline-block">
                 <ul className="ul-reset">
                   <li>
-                    <a href="mailto:mail@gerolddesign.com">
-                      mail@gerolddesign.com
-                    </a>
+                    <a>Abid Hussain</a>
                   </li>
                 </ul>
               </div>

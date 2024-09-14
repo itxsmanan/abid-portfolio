@@ -2,7 +2,6 @@ import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
 import App from "./App.jsx";
 import "./index.css";
-// In src/index.js or src/App.js
 import "./assets/css/animate.min.css";
 import "./assets/css/bootstrap.min.css";
 import "./assets/css/font-awesome-pro.min.css";
